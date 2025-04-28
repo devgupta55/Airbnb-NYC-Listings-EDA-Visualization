@@ -90,7 +90,7 @@ The dataset contains **20,765 entries and 22 features**, including:
    <img src = 'https://github.com/user-attachments/assets/11531cd1-0cc9-4a64-82c7-7786f03233cf' width = '450'>
 3. **Locality and Review Dependency**:<br>
    <img src = 'https://github.com/user-attachments/assets/9eb9fcac-6c1c-435c-83eb-3dab663e7615' width = '450'> <br>
-[Access the Jupyter Notebook]('./airbnb_python_eda.ipynb')
+[Access the Jupyter Notebook](./airbnb_python_eda.ipynb)
 ## 📌 **Recommendations**
 - **For Guests**: 
    - Look for listings with high availability and good reviews for a better experience.
