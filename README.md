@@ -1,4 +1,4 @@
-# Airbnb-NYC-Listings-EDA-Visualization
+# Airbnb NYC Listings(2024) EDA & Visualization with Python
 <img src = 'https://github.com/user-attachments/assets/886570a4-8927-4f46-8e96-aae51ea00dd5' width = '600'>
 
 ## 📋 **Overview**
